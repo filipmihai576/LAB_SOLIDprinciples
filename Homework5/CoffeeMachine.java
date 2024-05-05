@@ -1,0 +1,3 @@
+interface CoffeeMachine {
+    void start();
+}
